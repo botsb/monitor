@@ -1,5 +1,23 @@
 [
   {
+    "name": "WWWMK",
+    "url": "$WWWMK",
+    "icon": "https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png",
+    "slug": "wwwmk",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2770,
+    "timeDay": 2770,
+    "timeWeek": 2770,
+    "timeMonth": 2770,
+    "timeYear": 2770,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Console IDCH",
     "url": "$CONSOLE_IDCH",
     "icon": "https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 232,
-    "timeWeek": 232,
-    "timeMonth": 232,
-    "timeYear": 232,
+    "time": 230,
+    "timeDay": 230,
+    "timeWeek": 230,
+    "timeMonth": 230,
+    "timeYear": 230,
     "dailyMinutesDown": {}
   }
 ]
