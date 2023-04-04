@@ -8,9 +8,11 @@ sites:
 status-website:
   cname: monitor.aliqbal.net
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Monitor
+  name: Uptime Monitor
   navbar:
     - title: Monitor
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+i18n:
+  footer: Halaman ini menampilkan status layanan dan proyek yang saya pantau
