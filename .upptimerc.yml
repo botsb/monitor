@@ -12,6 +12,7 @@ sites:
     url: $CONSOLE_IDCH
     port: 443
     icon: https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png
+    maxResponseTime : 5000
     __dangerous__body_down_if_text_missing: '"status":"UP"'
 
 status-website:
