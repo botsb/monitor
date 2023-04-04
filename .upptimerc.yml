@@ -1,12 +1,7 @@
 owner: iqbalbinsb
 repo: monitor
 
-sites:
-  - name: WWWMK
-    url: $WWWMK
-    icon: https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png
-    __dangerous__body_down_if_text_missing: '"status":"UP"'
-    
+sites:    
   - name: Console IDCH
     check: "tcp-ping"
     url: $CONSOLE_IDCH
