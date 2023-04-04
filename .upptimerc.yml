@@ -2,13 +2,10 @@ owner: iqbalbinsb
 repo: monitor
 
 sites:
-  - name: WEBK
-    url: $WEBK
   - name: WWWMK
     url: $WWWMK
 
 status-website:
-  #baseUrl: /monitor
   cname: monitor.aliqbal.net
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Monitor
