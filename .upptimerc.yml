@@ -4,15 +4,21 @@ repo: monitor
 sites:
   - name: WWWMK
     url: $WWWMK
+    icon: https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png
 
 status-website:
   cname: monitor.aliqbal.net
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  favicon: https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/uptime.png
+  logoUrl: https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/uptime.png
   name: Uptime Monitor
+  theme: night
   navbar:
-    - title: Monitor
+    - title: Home
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+robotsText: "User-agent: * \n Disallow: /"
+
 i18n:
   footer: Halaman ini menampilkan status layanan dan proyek yang saya pantau
