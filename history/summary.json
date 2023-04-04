@@ -2,7 +2,7 @@
   {
     "name": "WWWMK",
     "url": "$WWWMK",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "icon": "https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png",
     "slug": "wwwmk",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3596,
-    "timeDay": 3596,
-    "timeWeek": 3596,
-    "timeMonth": 3596,
-    "timeYear": 3596,
+    "time": 3265,
+    "timeDay": 3265,
+    "timeWeek": 3265,
+    "timeMonth": 3265,
+    "timeYear": 3265,
     "dailyMinutesDown": {}
   }
 ]
