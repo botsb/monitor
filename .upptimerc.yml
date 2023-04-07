@@ -5,36 +5,49 @@ sites:
   - name: WWWMK
     url: $WWWMK
     icon: https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png
-
-  - name: MAINK
-    url: $MAINK
-    icon: https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png
+    maxResponseTime : 3000
     expectedStatusCodes:
       - 200
       - 201
       - 403
       - 404
-    
+
+  - name: MAINK
+    url: $MAINK
+    icon: https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png
+    maxResponseTime : 3000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
+      - 404
+
   - name: STATK
-    check: "tcp-ping"
     url: $STATK
-    port: 443
     icon: https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png
-    maxResponseTime : 5000
-    
+    maxResponseTime : 3000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
+      - 404
+
   - name: CTTNK
-    check: "tcp-ping"
     url: $CTTNK
-    port: 443
     icon: https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png
-    maxResponseTime : 5000
+    maxResponseTime : 3000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
+      - 404
 
   - name: CONSOLE-IDCH
     check: "tcp-ping"
     url: $CONSOLE_IDCH
     port: 443
     icon: https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png
-    maxResponseTime : 5000
+    maxResponseTime : 3000
 
 status-website:
   cname: monitor.aliqbal.net
