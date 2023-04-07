@@ -2,11 +2,23 @@ owner: iqbalbinsb
 repo: monitor
 
 sites:
+  - name: MAINK
+    url: $MAINK
+    icon: https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png
+    
+  - name: STATK
+    url: $STATK
+    icon: https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png
+    
+  - name: CTTNK
+    url: $CTTNK
+    icon: https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png
+    
   - name: WWWMK
     url: $WWWMK
     icon: https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png
 
-  - name: Console IDCH
+  - name: CONSOLE-IDCH
     check: "tcp-ping"
     url: $CONSOLE_IDCH
     port: 443
