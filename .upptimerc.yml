@@ -37,7 +37,11 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-robotsText: "User-agent: * \n Disallow: /"
+commitMessages:
+  commitAuthorName: "botsb"
+  commitAuthorEmail: "botsb@aliqbal.net"
 
 i18n:
   footer: Halaman ini menampilkan status layanan dan proyek yang saya pantau
+  
+robotsText: "User-agent: * \n Disallow: /"
