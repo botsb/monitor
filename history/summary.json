@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2502,
-    "timeDay": 2160,
-    "timeWeek": 2502,
-    "timeMonth": 2502,
-    "timeYear": 2502,
+    "time": 2472,
+    "timeDay": 2144,
+    "timeWeek": 2472,
+    "timeMonth": 2472,
+    "timeYear": 2472,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png",
     "slug": "maink",
     "status": "up",
-    "uptime": "1.35%",
-    "uptimeDay": "1.35%",
-    "uptimeWeek": "1.35%",
-    "uptimeMonth": "1.35%",
-    "uptimeYear": "1.35%",
-    "time": 47,
-    "timeDay": 47,
-    "timeWeek": 47,
-    "timeMonth": 47,
-    "timeYear": 47,
-    "dailyMinutesDown": {
-      "2023-04-07": 20
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 37,
+    "timeDay": 37,
+    "timeWeek": 37,
+    "timeMonth": 37,
+    "timeYear": 37,
+    "dailyMinutesDown": {}
   },
   {
     "name": "STATK",
@@ -43,19 +41,17 @@
     "icon": "https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png",
     "slug": "statk",
     "status": "up",
-    "uptime": "1.23%",
-    "uptimeDay": "1.23%",
-    "uptimeWeek": "1.23%",
-    "uptimeMonth": "1.23%",
-    "uptimeYear": "1.23%",
-    "time": 53,
-    "timeDay": 53,
-    "timeWeek": 53,
-    "timeMonth": 53,
-    "timeYear": 53,
-    "dailyMinutesDown": {
-      "2023-04-07": 20
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 43,
+    "timeDay": 43,
+    "timeWeek": 43,
+    "timeMonth": 43,
+    "timeYear": 43,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CTTNK",
@@ -63,19 +59,17 @@
     "icon": "https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png",
     "slug": "cttnk",
     "status": "up",
-    "uptime": "1.02%",
-    "uptimeDay": "1.02%",
-    "uptimeWeek": "1.02%",
-    "uptimeMonth": "1.02%",
-    "uptimeYear": "1.02%",
-    "time": 44,
-    "timeDay": 44,
-    "timeWeek": 44,
-    "timeMonth": 44,
-    "timeYear": 44,
-    "dailyMinutesDown": {
-      "2023-04-07": 20
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 37,
+    "timeDay": 37,
+    "timeWeek": 37,
+    "timeMonth": 37,
+    "timeYear": 37,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CONSOLE-IDCH",
@@ -88,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 234,
-    "timeDay": 228,
-    "timeWeek": 234,
-    "timeMonth": 234,
-    "timeYear": 234,
+    "time": 233,
+    "timeDay": 226,
+    "timeWeek": 233,
+    "timeMonth": 233,
+    "timeYear": 233,
     "dailyMinutesDown": {}
   }
 ]
