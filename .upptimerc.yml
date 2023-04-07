@@ -7,11 +7,13 @@ sites:
     icon: https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png
 
   - name: MAINK
-    check: "tcp-ping"
     url: $MAINK
-    port: 443
     icon: https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png
-    maxResponseTime : 5000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
+      - 404
     
   - name: STATK
     check: "tcp-ping"
