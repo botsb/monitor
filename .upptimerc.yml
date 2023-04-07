@@ -48,7 +48,7 @@ status-website:
 
 commitMessages:
   commitAuthorName: "botsb"
-  commitAuthorEmail: "botsb@aliqbal.net"
+  commitAuthorEmail: "$BOTSB"
 
 i18n:
   footer: Halaman ini menampilkan status layanan dan proyek yang saya pantau
