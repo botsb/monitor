@@ -2,21 +2,30 @@ owner: iqbalbinsb
 repo: monitor
 
 sites:
-  - name: MAINK
-    url: $MAINK
-    icon: https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png
-    
-  - name: STATK
-    url: $STATK
-    icon: https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png
-    
-  - name: CTTNK
-    url: $CTTNK
-    icon: https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png
-    
   - name: WWWMK
     url: $WWWMK
     icon: https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png
+
+  - name: MAINK
+    check: "tcp-ping"
+    url: $MAINK
+    port: 443
+    icon: https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png
+    maxResponseTime : 5000
+    
+  - name: STATK
+    check: "tcp-ping"
+    url: $STATK
+    port: 443
+    icon: https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png
+    maxResponseTime : 5000
+    
+  - name: CTTNK
+    check: "tcp-ping"
+    url: $CTTNK
+    port: 443
+    icon: https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png
+    maxResponseTime : 5000
 
   - name: CONSOLE-IDCH
     check: "tcp-ping"
