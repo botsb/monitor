@@ -1,5 +1,65 @@
 [
   {
+    "name": "MAINK",
+    "url": "$MAINK",
+    "icon": "https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png",
+    "slug": "maink",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 52,
+    "timeDay": 52,
+    "timeWeek": 52,
+    "timeMonth": 52,
+    "timeYear": 52,
+    "dailyMinutesDown": {
+      "2023-04-07": 0
+    }
+  },
+  {
+    "name": "STATK",
+    "url": "$STATK",
+    "icon": "https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png",
+    "slug": "statk",
+    "status": "down",
+    "uptime": "9.83%",
+    "uptimeDay": "9.83%",
+    "uptimeWeek": "9.83%",
+    "uptimeMonth": "9.83%",
+    "uptimeYear": "9.83%",
+    "time": 102,
+    "timeDay": 102,
+    "timeWeek": 102,
+    "timeMonth": 102,
+    "timeYear": 102,
+    "dailyMinutesDown": {
+      "2023-04-07": 0
+    }
+  },
+  {
+    "name": "CTTNK",
+    "url": "$CTTNK",
+    "icon": "https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png",
+    "slug": "cttnk",
+    "status": "down",
+    "uptime": "7.00%",
+    "uptimeDay": "7.00%",
+    "uptimeWeek": "7.00%",
+    "uptimeMonth": "7.00%",
+    "uptimeYear": "7.00%",
+    "time": 54,
+    "timeDay": 54,
+    "timeWeek": 54,
+    "timeMonth": 54,
+    "timeYear": 54,
+    "dailyMinutesDown": {
+      "2023-04-07": 0
+    }
+  },
+  {
     "name": "WWWMK",
     "url": "$WWWMK",
     "icon": "https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png",
@@ -10,15 +70,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2620,
-    "timeDay": 2317,
-    "timeWeek": 2620,
-    "timeMonth": 2620,
-    "timeYear": 2620,
+    "time": 2589,
+    "timeDay": 2297,
+    "timeWeek": 2589,
+    "timeMonth": 2589,
+    "timeYear": 2589,
     "dailyMinutesDown": {}
   },
   {
-    "name": "Console IDCH",
+    "name": "CONSOLE-IDCH",
     "url": "$CONSOLE_IDCH",
     "icon": "https://raw.githubusercontent.com/iqbalbinsb/monitor/master/assets/web.png",
     "slug": "console-idch",
@@ -28,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 240,
-    "timeDay": 252,
-    "timeWeek": 240,
-    "timeMonth": 240,
-    "timeYear": 240,
+    "time": 236,
+    "timeDay": 231,
+    "timeWeek": 236,
+    "timeMonth": 236,
+    "timeYear": 236,
     "dailyMinutesDown": {}
   }
 ]
